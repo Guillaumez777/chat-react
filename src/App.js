@@ -7,7 +7,7 @@ function App() {
   
   return (
     <div className="App">
-      <p>hello</p>
+      <p>Chat in React : </p>
       <Chat />
     </div>
   );
