@@ -5,6 +5,7 @@ export default function Chat() {
     <div>
         <input type="text" placeholder='enter some text'/>
         <button>Envoyer</button>
+        <div></div>
     </div>
   )
 }
